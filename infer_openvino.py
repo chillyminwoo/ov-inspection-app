@@ -27,7 +27,7 @@ MODEL_XML      = "./weights/leather_model.xml"   # .bin 은 자동 탐색
 # 1. 페이지 설정
 # ─────────────────────────────────────────────
 st.set_page_config(page_title="InspectorsAlly-KMW", page_icon=":camera:", layout="centered")
-st.title("InspectorsAlly")
+st.title("InspectorsAlly-KMW")
 st.caption("VGG16 + OpenVINO 기반 가죽 제품 불량 검사")
 
 
